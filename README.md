@@ -1,16 +1,15 @@
-# music_player
+# Music Player 
 
-A new Flutter project.
+Flutterで開発した、音楽プレーヤーアプリです。
 
-## Getting Started
+Providerを使用して、アプリの状態管理を意識して開発を行いました。
 
-This project is a starting point for a Flutter application.
+## スクリーンショット
 
-A few resources to get you started if this is your first Flutter project:
+<img alt="プレイリスト" src="screenshots/playlist.png" width="200">
+<img alt="プレーヤー" src="screenshots/player.png" width="200">
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+下記のZIPを展開すると、実行ファイル（exe）があります。※Windows x64向け
+> zip/windows.zip
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+アプリに使用している音源は、「DOVA-SYNDROME」からダウンロードしたものを使わせていただいております。
